@@ -108,24 +108,33 @@ Tabel Courses memiliki foreign key `lecturer_id` yang terhubung dengan `id` pada
 Dokumentasi berupa screenshot atau screen recording saat program dijalankan akan dilampirkan pada bagian ini.
 
 ### A. Halaman Data Lecturers
-
-*Tambahkan screenshot halaman Data Lecturers.*
+<img width="1366" height="597" alt="01-data-lecturers" src="https://github.com/user-attachments/assets/a67f4350-40f5-42cd-b952-a03a3c047541" />
 
 ### B. Form Tambah Lecturer
+<img width="1366" height="598" alt="02-tambah-lecturer" src="https://github.com/user-attachments/assets/ff883c34-ab37-45fa-9612-ef50ded84679" />
 
-*Tambahkan screenshot form tambah dosen.*
+<img width="1366" height="597" alt="03-after-tambah-lecturer" src="https://github.com/user-attachments/assets/be2c6d0c-4133-48e7-877d-0ac04d707e32" />
 
 ### C. Halaman Data Courses
-
-*Tambahkan screenshot halaman Data Courses.*
+<img width="1345" height="597" alt="07-data-courses" src="https://github.com/user-attachments/assets/ef562251-aca0-498d-bf51-170928886f6f" />
 
 ### D. Form Tambah Course
+<img width="1366" height="595" alt="08-tambah-course" src="https://github.com/user-attachments/assets/8918d4c6-9438-452c-9404-5c8ab13370f5" />
 
-*Tambahkan screenshot form tambah mata kuliah.*
+<img width="1353" height="593" alt="09-after-tambah-course" src="https://github.com/user-attachments/assets/67416c42-41fd-4cc5-a17c-08e74660b4f4" />
 
 ### E. Proses Edit dan Delete
+<img width="1366" height="597" alt="04-edit-lecturer" src="https://github.com/user-attachments/assets/700ee798-5424-46ca-8f34-b1f637ecc4fa" />
 
-*Tambahkan screenshot proses perubahan dan penghapusan data.*
+<img width="1366" height="596" alt="05-after-edit-lecturer" src="https://github.com/user-attachments/assets/f7740ca3-4d0a-495c-8fe6-895cddf1f593" />
+
+<img width="1366" height="644" alt="06-delete-lecturer" src="https://github.com/user-attachments/assets/bc508295-7a09-4f17-aed8-1741526d1129" />
+
+<img width="1366" height="597" alt="10-edit-course" src="https://github.com/user-attachments/assets/b63250e8-931f-472b-9c9d-e2997694f132" />
+
+<img width="1354" height="598" alt="11-after-edit-course" src="https://github.com/user-attachments/assets/1bb2b4c1-d1a2-43ab-8aa2-63a147c1cc2c" />
+
+<img width="1352" height="634" alt="12-delete-course" src="https://github.com/user-attachments/assets/f8b48502-01f6-4e7e-af89-1b6660599e7e" />
 
 ---
 
